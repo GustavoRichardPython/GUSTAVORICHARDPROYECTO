@@ -1,0 +1,22 @@
+[
+    {
+        "pregunta": "Que edad tengo",
+        "rc": 23,
+        "ri": [
+            29,
+            34,
+            23,
+            12
+        ]
+    },
+    {
+        "pregunta": "Que edad tengo2",
+        "rc": 43,
+        "ri": [
+            29,
+            34,
+            23,
+            12
+        ]
+    }
+]
